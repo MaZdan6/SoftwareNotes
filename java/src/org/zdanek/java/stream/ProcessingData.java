@@ -43,7 +43,7 @@ public class ProcessingData {
     private static void streamMethod(List<City> cities) {
 
         IO.println("--------");
-        IO.println("notStreamMethod");
+        IO.println("StreamMethod");
         int sum = cities.stream()
                 .filter(city -> city.population > 100000)
                 .mapToInt(City::population)
