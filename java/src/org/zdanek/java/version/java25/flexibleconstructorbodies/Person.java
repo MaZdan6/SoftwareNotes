@@ -1,4 +1,4 @@
-package org.zdanek.java25.flexibleconstructorbodies;
+package org.zdanek.java.version.java25.flexibleconstructorbodies;
 
 public class Person {
 

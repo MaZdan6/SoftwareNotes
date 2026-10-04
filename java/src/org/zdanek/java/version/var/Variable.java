@@ -1,4 +1,4 @@
-package org.zdanek.java10.var;
+package org.zdanek.java.version.var;
 
 import java.util.function.BiFunction;
 

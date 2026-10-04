@@ -1,4 +1,4 @@
-package org.zdanek.java25;
+package org.zdanek.java.version.java25;
 
 import java.lang.ScopedValue;
 import java.util.concurrent.ExecutorService;

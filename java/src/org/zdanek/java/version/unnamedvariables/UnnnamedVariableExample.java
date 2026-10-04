@@ -1,4 +1,4 @@
-package org.zdanek.java22.unnamedvariables;
+package org.zdanek.java.version.unnamedvariables;
 
 //https://docs.oracle.com/en/java/javase/25/language/unnamed-variables-patterns.html#GUID-D54E1CF1-BDFD-4B57-8A6E-5B4C87F4D58A
 public class UnnnamedVariableExample {

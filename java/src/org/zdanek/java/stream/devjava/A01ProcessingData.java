@@ -1,13 +1,10 @@
-package org.zdanek.java.stream;
+package org.zdanek.java.stream.devjava;
 
-import java.time.LocalDate;
 import java.util.List;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 //https://dev.java/learn/api/collections-and-streams/streams/
 //https://dev.java/learn/api/collections-and-streams/streams/map-filter-reduce/
-public class ProcessingData {
+public class A01ProcessingData {
 
 
     void main() {

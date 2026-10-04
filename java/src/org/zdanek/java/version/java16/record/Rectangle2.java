@@ -1,4 +1,4 @@
-package org.zdanek.java16.record;
+package org.zdanek.java.version.java16.record;
 
 public record Rectangle2(double length, double width) {
 

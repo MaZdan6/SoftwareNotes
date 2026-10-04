@@ -1,4 +1,4 @@
-package org.zdanek.java16.pattenrmatching.instance_of;
+package org.zdanek.java.version.java16.pattenrmatching.instance_of;
 
 public class Circle implements Shape {
     final double radius;

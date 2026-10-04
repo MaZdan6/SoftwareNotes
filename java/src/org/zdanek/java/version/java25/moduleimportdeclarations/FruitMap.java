@@ -1,4 +1,4 @@
-package org.zdanek.java25.moduleimportdeclarations;
+package org.zdanek.java.version.java25.moduleimportdeclarations;
 
 /*import java.util.Map;
 import java.util.function.Function;

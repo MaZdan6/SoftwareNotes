@@ -1,4 +1,4 @@
-package org.zdanek.java15.textblocks;
+package org.zdanek.java.version.textblocks;
 
 
 //https://docs.oracle.com/en/java/javase/25/language/text-blocks.html#GUID-B1AF2D0B-C89F-478B-8C98-E8FC3271DC5E

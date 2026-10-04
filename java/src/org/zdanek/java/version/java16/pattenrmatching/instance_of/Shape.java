@@ -1,4 +1,4 @@
-package org.zdanek.java16.pattenrmatching.instance_of;
+package org.zdanek.java.version.java16.pattenrmatching.instance_of;
 
 public interface Shape {
     public static double getPerimeter(Shape s) throws IllegalArgumentException {
