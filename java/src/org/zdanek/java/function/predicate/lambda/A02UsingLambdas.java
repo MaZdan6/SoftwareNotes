@@ -13,6 +13,7 @@ public class A02UsingLambdas {
 
         IO.println("------");
         IO.println("Supplier");
+        //Supplier () -> t; () -> new Ballon(); takes no arguments, returns something
         Random random = new Random(314L);
         Supplier<Integer> newRandom = () -> random.nextInt(10);
 
@@ -31,6 +32,7 @@ public class A02UsingLambdas {
 
         IO.println("------");
         IO.println("Implementing and Using Consumers");
+        //Consumer () -> {}; s -> IO.println(s); takes something, returns nothing
         IntSupplier newRandomIntC = () -> randomInt.nextInt(10);
         Consumer<String> printer = s -> IO.println(s);
         for (int i = 0; i < 5; i++) {
@@ -50,6 +52,7 @@ public class A02UsingLambdas {
 
         IO.println("------");
         IO.println("Implementing and Using Predicates");
+        //Predicate t -> true; age -> age > 20; takes something, returns boolean
         Predicate<String> length3 = s -> s.length() == 3;
         String word = "Ana"; // any word
         boolean isOfLength3 = length3.test(word);
